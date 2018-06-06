@@ -39,51 +39,51 @@ The blend_images function only requires the mask to be the same size as the smal
 
 The blending working on the apple and orange example can be seen below, along with the intermediate pyramids.
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/apple_dis.jpg "apple")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/blended_dis.png "blended")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/orange_dis.jpg "orange")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/mask_dis.jpg "mask")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/apple_dis.jpg "apple")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/blended_dis.png "blended")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/orange_dis.jpg "orange")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/mask_dis.jpg "mask")
 
 Apple pyramids
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau1_000000.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau1_000001.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau1_000002.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau1_000003.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau1_000004.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau1_000000.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau1_000001.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau1_000002.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau1_000003.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau1_000004.png "gaussian pyramid")
 
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap1_000000.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap1_000001.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap1_000002.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap1_000003.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap1_000004.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap1_000000.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap1_000001.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap1_000002.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap1_000003.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap1_000004.png "laplacian pyramid")
 
 
 Orange pyramids
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau2_000000.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau2_000001.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau2_000002.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau2_000003.png "gaussian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/gau2_000004.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau2_000000.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau2_000001.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau2_000002.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau2_000003.png "gaussian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/gau2_000004.png "gaussian pyramid")
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap2_000000.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap2_000001.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap2_000002.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap2_000003.png "laplacian pyramid")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/lap2_000004.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap2_000000.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap2_000001.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap2_000002.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap2_000003.png "laplacian pyramid")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/lap2_000004.png "laplacian pyramid")
 
 Another interesting application of this blending program is the prototyping of future wardrobe options, as can be seen below.
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/tru_dis.png "trump")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/blendedtrump_good_dis.png "blended")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/mel_dis.png "melania")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/trumpmask_good_dis.png "mask")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/tru_dis.png "trump")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/blendedtrump_good_dis.png "blended")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/mel_dis.png "melania")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/trumpmask_good_dis.png "mask")
 
 The mask made a huge difference in the quality of the result, as can be seen with the same images blended with a more simple mask.
 
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/tru_dis.png "trump")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/blendedtrump_half_dis.png "blended")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/mel_dis.png "melania")
-![alt text](https://github.iu.edu/cs-b657-sp2018/dnawaz-kaylwalt-minhtong-saidulla-a2/blob/kayl/images/part2/trumpmask_half_dis.png "mask")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/tru_dis.png "trump")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/blendedtrump_half_dis.png "blended")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/mel_dis.png "melania")
+![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Blending/images/trumpmask_half_dis.png "mask")
