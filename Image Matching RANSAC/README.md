@@ -1,4 +1,4 @@
-# Image Matching usign SIFT descriptors and RANSAC Algorithm
+# Image Matching using SIFT descriptors and RANSAC Algorithm
 
 #### Running the Code
 Run make to compile the program and then input the command
