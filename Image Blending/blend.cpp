@@ -1,10 +1,3 @@
-// B657 assignment 2 skeleton code
-//
-// Compile with: "make"
-//
-// See assignment handout for command line and project specifications.
-
-
 //Link to the header file
 #include "CImg.h"
 #include <iostream>
