@@ -22,10 +22,10 @@ Number of Matches = 37
 Drawing Lines for SIFT matching pairs and writing to part3_sift_matches.jpg  
 Drawing Lines for matching pairs after RANSAC and writing to part3_ransac_matches.jpg  
 
-**sift_matches_eiffel**
+**SIFT Matches eiffel**
 ![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Matching%20RANSAC/part3_sift_matches_eiffel.jpg "part3_sift_matches_eiffel")
 
-**ransac_matches_eiffel**
+**RANSAC Matches eiffel**
 ![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Matching%20RANSAC/part3_ransac_matches_eiffel.jpg "part3_ransac_matches_eiffel")
 
 ##### Test_2:
@@ -36,10 +36,10 @@ Number of Matches = 26
 Drawing Lines for SIFT matching pairs and writing to part3_sift_matches.jpg  
 Drawing Lines for matching pairs after RANSAC and writing to part3_ransac_matches.jpg  
 
-**sift_matches_bigben**
+**SIFT Matches bigben**
 ![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Matching%20RANSAC/part3_sift_matches_bigben.jpg "part3_sift_matches_bigben")
 
-**ransac_matches_bigben**
+**RANSAC Matches bigben**
 ![alt text](https://github.com/Karthikeya254/Computer-Vision-Projects/blob/master/Image%20Matching%20RANSAC/part3_ransac_matches_bigben.jpg "part3_ransac_matches_bigben")
 
 ##### Test_3:
